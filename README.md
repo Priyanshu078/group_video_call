@@ -1,6 +1,13 @@
-# agora_group_calling
+# Group video call app
 
-A new Flutter project.
+Flutter application to implement group video call using Agora SDK for flutter.
+
+![channelscreen](https://user-images.githubusercontent.com/66347715/127668628-ca9e8079-32f1-40a8-9ff2-0ed59bbed9f0.jpg)
+
+![black](https://user-images.githubusercontent.com/66347715/127668645-81d6b843-a11d-4678-b344-6d414938a880.jpg)
+
+![singleuser](https://user-images.githubusercontent.com/66347715/127668686-3cafded1-8d68-4833-ae1c-54c9cea9819d.jpg)
+
 
 ## Getting Started
 
